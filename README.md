@@ -61,7 +61,7 @@ Banking-System-SpringBoot-React-Redux/
 | *Dashboard* | ![Dashboard](Dashboard.png) |
 | *Accounts* | ![Accounts](Account.png) |
 | *Add Account* | ![Add Account](AddAccount.png) |
-| *Deposit* | ![Deposit](Deposit.png) |
+| *Deposit* | ![Deposit](Desposit.png) |
 | *Transfer* | ![Transfer](Transfer.png) |
 | *Transaction History* | ![Transaction History](History.png) |
 
